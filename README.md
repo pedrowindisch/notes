@@ -10,5 +10,10 @@ I don't have a habit of keeping notes on articles and non-tech books, but I'm tr
 
 It would not make much sense to keep notes on literature books the same way I do on tech books and articles imo. I don't want to turn reading, which is something I enjoy a lot, into a chore - so those notes are usually limited to short reviews of the book and passages I found interesting.
 
+Every entry follows the "[c].[y].[m] n" pattern, where:
+- _c_ is the category of the entry (article, tech book, lit, etc);
+- _y_ and _m_ are, respectively, the year and the month I started reading the book;
+- _n_ is the name of the book.
+
 ## Final words
 I (try to) keep an updated list of all books I've read on my [goodreads](https://www.goodreads.com/user/show/118576377-pedro-henrique).
