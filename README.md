@@ -15,5 +15,7 @@ Every entry follows the "[c].[y].[m] n" pattern, where:
 - _y_ and _m_ are, respectively, the year and the month I started reading the book;
 - _n_ is the name of the book.
 
+Subcategories may also exist - such as in the case of the categories `03.00. Portuguese` and `03.01. English`, for example.
+
 ## Final words
 I (try to) keep an updated list of all books I've read on my [goodreads](https://www.goodreads.com/user/show/118576377-pedro-henrique).
