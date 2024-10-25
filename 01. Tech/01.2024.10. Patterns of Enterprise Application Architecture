@@ -1,0 +1,13 @@
+# Patterns of Enterprise Application Architecture
+## Layering
+Layering can bring obvious upsides: each layer can be understood independently in most cases; layers can be swapped without too much trouble; they are great for establishing standards; and new layers can be built on top of lower ones.
+
+Layers, however, do have some drawbacks: not everything fits neatly into a single layer; and layers can harm performance.
+
+Deciding which layers to have and what their respective resposabilities will be is hard.
+
+### The Three Principal Layers
+Presentation, domain and data layers, each with the respective responsabilities: provision of services and display of informations; logic; and communication with data stores, such as databases and messages queues.
+
+## Organizing Domain Logic
+
