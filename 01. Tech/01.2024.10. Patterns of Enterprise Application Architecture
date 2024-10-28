@@ -1,4 +1,21 @@
 # Patterns of Enterprise Application Architecture
+## Table of Contents
+### Domain Logic Patterns
+- [Transaction Script](#transaction-script) 
+- [Domain Model](#domain-model)
+- [Table Module](#table-module)
+- [Service Layer](#service-layer)
+
+### Data Source Patterns
+### Object-Relational Behavior Patterns
+### Object-Relational Structural Patterns
+### Object-Relational Metadata Mapping Pattenrs
+### Web Presentation Patterns
+### Distribution Patterns
+### Offline Concurrency Patterns
+### Session State Patterns
+### Base Patterns
+
 ## Layering
 Layering can bring obvious upsides: each layer can be understood independently in most cases; layers can be swapped without too much trouble; they are great for establishing standards; and new layers can be built on top of lower ones.
 
@@ -10,4 +27,11 @@ Deciding which layers to have and what their respective resposabilities will be 
 Presentation, domain and data layers, each with the respective responsabilities: provision of services and display of informations; logic; and communication with data stores, such as databases and messages queues.
 
 ## Organizing Domain Logic
+
+## Mapping to Relational Databases
+### The Active Record pattern
+
+### The Unit of Work pattern
+Keeps track of changes that can affect the database during a transaction/action.
+
 
